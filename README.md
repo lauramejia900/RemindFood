@@ -26,7 +26,7 @@ Here're some of the project's best features:
 *   Details of the products
 *   List of your product that it will expire
 *   Groceries list
-*   
+
 
 ## Installation Steps:
 
