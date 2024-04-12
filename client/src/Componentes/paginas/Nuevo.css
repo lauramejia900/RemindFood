@@ -1,0 +1,47 @@
+.nuevo{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #141516;
+    color: white;
+    padding-left: 75px;
+    padding-right: 75px;
+
+}
+
+.bt{
+    background-color: #ca762a;
+    width: 250px;
+    margin-bottom: 25px;
+}
+
+
+.bt2{
+    background-color: #f7d08d;
+    margin-left: 10px;
+    width: 250px;
+    margin-bottom: 25px;
+}
+
+.bt {
+    transition-duration: 0.4s;
+}
+
+.bt2 {
+    transition-duration: 0.4s;
+}
+
+.bt:hover{
+    background-color: #77a766;
+    color: white;
+}
+
+.bt2:hover{
+    background-color:#bb1b25;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+

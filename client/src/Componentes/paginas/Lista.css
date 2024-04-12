@@ -1,0 +1,132 @@
+.lista{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #141516;
+    color: white;
+    padding-left: 75px;
+    padding-right: 75px;
+    height: 650px;
+}
+.lis{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.btp{
+    margin-left: 15px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.btp1{
+    margin-left: 140px;
+    color: white;
+}
+
+
+.btpVerde:hover{
+    background-color: #77a766;
+}
+
+.btpAzul:hover{
+    background-color: #a6d6e5;
+}
+
+.btpRojo:hover{
+    background-color:#bb1b25;
+}
+
+.btpRojo:hover{
+    background-color:#bb1b25; 
+}
+
+.btpCafe:hover{
+    background-color: #ca762a;  
+}
+
+
+.btpPiel:hover{
+    background-color:#f7d08d;
+}
+
+.btpGris:hover{
+    background-color:#8b9e93;
+}
+
+
+.icon{
+    border: solid 2px white;
+}
+
+.cuadro{
+    border: double  4px;
+    border-bottom-color:  #bb1b25;
+    border-top-color: #77a766;
+    border-left-color: #f7d08d;
+    border-right-color: #ca762a;
+}
+
+.bo{
+    text-align: center;
+}
+
+.spann{
+    margin-left: 30px;
+}
+
+.vencido{
+    margin-bottom: 10px;
+}
+
+.esp{
+    margin: 30px;
+}
+.t{
+    margin:15px;
+    width: 20%;
+}
+
+.text{
+    text-align: center;
+}
+
+.te{
+    color: white;
+}
+
+.l{
+    margin-left: 950px;
+}
+
+.co{
+    margin-top: 65px;
+}
+
+.detalle{
+    margin-left: 160px;
+}
+
+.entrar{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #141516;
+    color: white;
+    padding-left: 75px;
+    padding-right: 75px;
+    height: 735px;
+}
+
+.log{
+    margin-left: 85px;
+    margin-right: 15px;
+}
+
+.logis{
+    width: 340px;
+    height: 150px;
+    margin-left: 410px;
+    margin-top: 20px;
+}
+
+.es{
+    margin-top: 15px;
+}
