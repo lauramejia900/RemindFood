@@ -11,8 +11,6 @@
 - [Installation Step](#installation-steps)
 - [The process](#the-process)
   - [Built with](#built-with)
-- [Useful resources](#useful-resources)
-- [License](#license)
 - [Author](#author)
 
 ## Demo
